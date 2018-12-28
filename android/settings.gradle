@@ -1,0 +1,3 @@
+rootProject.name = 'hikaba_cerebrum'
+
+include ':app'
